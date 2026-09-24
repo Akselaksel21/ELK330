@@ -94,3 +94,4 @@ plt.title("Last i tyskland begge")
 plt.grid()
 plt.legend()
 plt.show()
+
